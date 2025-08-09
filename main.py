@@ -16,7 +16,7 @@ from langchain.memory import ConversationBufferMemory
 from langchain_google_genai import GoogleGenerativeAI
 import os
 
-os.environ['GOOGLE_API_KEY'] ='AIzaSyBpA163PLgMATBp0dLYPqYzYzWxPEnQuXw'
+os.environ['GOOGLE_API_KEY'] ='AIzaSyA8fiIHzUUVwWUZNcv7yzVOjKH1QpVFuHY'
 
 def get_pdf_text(pdf_docs):
     text=""
